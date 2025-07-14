@@ -1,0 +1,106 @@
+{
+  "0": {
+    "name": "Beyti Full Cream Milk 900mL",
+    "price": 15
+  },
+  "1": {
+    "name": "Bisco Misr Luxe ",
+    "price": 3
+  },
+  "2": {
+    "name": "Bisco Misr Max",
+    "price": 4
+  },
+  "3": {
+    "name": "Bisco Misr Wafer ",
+    "price": 5
+  },
+  "4": {
+    "name": "Crystal Sunflower Oil - 800mL",
+    "price": 25
+  },
+  "5": {
+    "name": "Domty Cheese with Olive",
+    "price": 18
+  },
+  "6": {
+    "name": "El Maleka Elbow Pasta - 400G",
+    "price": 9
+  },
+  "7": {
+    "name": "Fa Men Anti-perspirant Roll-on",
+    "price": 20
+  },
+  "8": {
+    "name": "Heinz Tomato Ketchup Grill",
+    "price": 16
+  },
+  "9": {
+    "name": "Heinz Tomato Paste",
+    "price": 10
+  },
+  "10": {
+    "name": "Indomie Supermi Vegetable",
+    "price": 6
+  },
+  "11": {
+    "name": "Knorr Vegetable Stock - 12 Cubes",
+    "price": 14
+  },
+  "12": {
+    "name": "Lipton yellow label tea dust 40g",
+    "price": 11
+  },
+  "13": {
+    "name": "Malh Baladna Salt - 300g",
+    "price": 3
+  },
+  "14": {
+    "name": "Mena Foul Fava Beans",
+    "price": 8
+  },
+  "15": {
+    "name": "Nivea Soft Moisturizing Cream",
+    "price": 22
+  },
+  "16": {
+    "name": "Oniro Teabix Biscuits",
+    "price": 2
+  },
+  "17": {
+    "name": "Rehana Flour 1Kg",
+    "price": 7
+  },
+  "18": {
+    "name": "Savannah Classic Soap - 125g",
+    "price": 5
+  },
+  "19": {
+    "name": "Shepsy Salt and Vinegar Chips",
+    "price": 10
+  },
+  "20": {
+    "name": "Shepsy Tomato Chips",
+    "price": 12
+  },
+  "21": {
+    "name": "Signal Cavity Fighter",
+    "price": 13
+  },
+  "22": {
+    "name": "Sunshine Shredded Tuna",
+    "price": 19
+  },
+  "23": {
+    "name": "Toledo Mushroom",
+    "price": 17
+  },
+  "24": {
+    "name": "Zam Zam Black Eye Beans 500g",
+    "price": 10
+  },
+  "25": {
+    "name": "else",
+    "price": 0
+  }
+}
